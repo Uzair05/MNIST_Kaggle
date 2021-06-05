@@ -7,7 +7,7 @@ Made By Uzair Bin Asim
 ### What it is:
 
 I plan on making a Machine Learning model that implements CNN. I will be using the MNIST dataset to make predictions on handwritten characters.  
-To do so I will implement CNN using the tensorflow library.
+To do so I will implement CNN using the [tensorflow](https://www.tensorflow.org/) library. Datasets imported from [kaggle](https://www.kaggle.com/c/digit-recognizer).
 
 ### How to use it:
 
