@@ -2,7 +2,7 @@
 
 ## CNN through Tensorflow
 
-Made By Uzair Bin Asim
+Made By Uzair Bin C. Asim
 
 ### What it is:
 
