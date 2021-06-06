@@ -23,7 +23,7 @@ kaggle competitions download -c digit-recognizer
 7z x digit-recognizer.zip; mkdir data/; ls *.csv | xargs -I% mv % data/
 ```
 
-3. Open in jupter notebook:
+3. Open in Jupter Notebook:
 
 ```bash
 jupyter notebook .
