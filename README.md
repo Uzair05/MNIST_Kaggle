@@ -20,7 +20,7 @@ kaggle competitions download -c digit-recognizer
 2. Uncompress data and move them to folder `data/` using [7-zip](https://www.7-zip.org/):
 
 ```bash
-7z x digit-recognizer.zip; mkdir data/; ls *.csv | xargs -I% mv % data/
+7z x digit-recognizer.zip && mkdir data/ && ls *.csv | xargs -I% mv % data/
 ```
 
 3. Open in Jupter Notebook:
